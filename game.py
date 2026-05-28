@@ -49,7 +49,7 @@
 # 3. 実行
 #
 # ```bash
-# python game3.py
+# python game.py
 # ```
 #
 # 操作方法
